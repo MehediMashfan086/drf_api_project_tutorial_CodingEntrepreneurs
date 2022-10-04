@@ -1,4 +1,5 @@
 django>=4.0.0,<4.1.0
 djangorestframework
 pyyaml
-djnago-cors-headers
+requests
+# djnago-cors-headers
